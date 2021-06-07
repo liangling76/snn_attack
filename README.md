@@ -21,7 +21,7 @@ CUDA_VISIBLE_DEVICES=0 python snn_attack.py
 
 In file 'snn_attack.py', 'attack_mode' indicates targeted or untargeted attack, 'thresh_attack_value' controls the firing threshold in pernultimate layer. 
 
-For boundary attack, please refer the original [source code!](https://github.com/greentfrapp/boundary-attack) for more detail. Note that the boundary attack does not have any constrain on the model.
+For the boundary attack, please refer the original [source code!](https://github.com/greentfrapp/boundary-attack) for more detail. Note that the boundary attack does not have any constrain on the model.
 
 ## Results
 ```
