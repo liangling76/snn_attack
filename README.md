@@ -1,6 +1,6 @@
 # snn_attack
 
-This code apllies SNN attack on MNIST dataset
+This code apllies gradient based SNN attack on MNIST dataset
 
 ## Train an SNN model
 ```
@@ -9,7 +9,7 @@ CUDA_VISIBLE_DEVICES=0 python train_mnist_ce.py
 
 ## Collect samples from each classes (optional)
 
-We have selected 5 images for each class and save these samples in file ckpt. The following command is used to select data.
+We have already selected 5 images for each class and saved these samples in file ckpt. The following command is used to select data.
 ```
 python dataset_select.py
 ```
