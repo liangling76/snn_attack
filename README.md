@@ -38,6 +38,6 @@ targeted attack; pernultimate layer firing thresh = 1.0
 'succ': 413, 'fail': 37,  'wrong': 0, 'ratio': 0.9177777777777778, 'avg_diff': 0.033113396922735266
 ```
 
-## Reference
+## Paper link
 
 
