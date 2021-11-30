@@ -39,5 +39,7 @@ targeted attack; pernultimate layer firing thresh = 1.0
 ```
 
 ## Paper link
+https://ieeexplore.ieee.org/document/9527394
 
+DOI 10.1109/TNNLS.2021.3106961
 
